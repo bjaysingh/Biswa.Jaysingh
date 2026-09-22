@@ -26,4 +26,7 @@ I'm gradually publishing some of that work here as it becomes useful enough to s
 ### Foldmark
 A desktop and developer tool for converting documents into clean Markdown for AI workflows.
 
+### Claude Whisperer
+/whisper: a Claude Code skill that optimizes your prompt before it runs and gets better every time you correct it.
+
 More projects coming as I get them ready to share.
