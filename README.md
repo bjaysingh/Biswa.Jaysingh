@@ -29,4 +29,10 @@ A desktop and developer tool for converting documents into clean Markdown for AI
 ### Claude Whisperer
 /whisper: a Claude Code skill that optimizes your prompt before it runs and gets better every time you correct it.
 
+### Next Gen HR
+More to come soon.
+
+### AI Powered Experiences for Real Estate Buyer/Realtors/Builders
+More to come soon.
+
 More projects coming as I get them ready to share.
